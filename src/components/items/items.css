@@ -1,0 +1,50 @@
+.cardWrapper{
+    display: flex;
+    align-items: center;
+    /* margin-right: 20px; */
+    
+   
+
+    
+}
+
+.input_box{
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.cat_buttons{
+    padding: 10px;
+}
+
+.cat_button{
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+    background-color: black;
+    color: white;
+}
+
+.cat_button:hover {
+    background-color: white;
+    color: black;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+
+#cd{
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+}
+
+.card_text{
+    text-decoration: underline white;
+    color: black;
+
+}
